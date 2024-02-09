@@ -29,13 +29,13 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 **yes** 1 pt: Can successfully remove a `Computer` from the inventory
 
-____ 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory
+**yes** 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory
 
-____ 1 pt: Program prints appropriate error messages
+**yes** 1 pt: Program prints appropriate error messages
 
 ## General Items (10 pts):
 
-_____ 4 pts: Program executes fully & consistently without crashing (exception/freeze)
+**yes** 4 pts: Program executes fully & consistently without crashing (exception/freeze)
 
 **yes** 1 pt: Classes & class members all have header comments
 
@@ -47,4 +47,4 @@ _____ 4 pts: Program executes fully & consistently without crashing (exception/f
 
 **yes** 1 pt: All required files included with submission (including completed checklist file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment
+**yes** 1 pt: `reflection.md` contains your reflection on the assignment
